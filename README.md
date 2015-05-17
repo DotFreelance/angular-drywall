@@ -131,6 +131,9 @@ $ npm version
 
 Contributions are welcome.
 
+## Troubleshooting
+
+Some issues have cropped up on OS X that result in linker errors ( from dyld ) and some bcrypt errors. All of the errors should be resolvable by simply ``` npm install <trouble node_module>```.
 
 ## License
 
